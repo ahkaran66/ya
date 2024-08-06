@@ -1,0 +1,42 @@
+****SON YAZILIM****
+
+*****ANA SÝTE KURMA******
+
+1 - Ftp klasörünün içinde bulunan FTP klasörünün içindeki tüm dosyalarý ftp nize atýnýz.
+
+2 - SQL klasöründeki sql dosyasýný yeni bir veritabaný oluþturup içe aktar yaparak phpmyadmin üzerinden yükleyiniz.
+
+3 - Dosyalarýn içerisinde trex/controller/config.php dosyasýnda gerekli alanlarý kendinize göre düzeltiniz.
+
+4- Phpmyadmin üzerinden ayarlar tablosundan ayar_siteurl kýsmýna site linkini kurduðunuz alan adýný http:// dahil ve sonuna / iþareti ile tam olarak yazýp sonuna / eklemeyi unutmayýnýz.
+
+Kurulum tamamlanmýþtýr. Satýn aldýðýnýz için teþekkür ederiz.
+
+
+*****ALT SÝTE KURMA****** (Önce ana site kurulmalýdýr.)
+
+1 - Ftp klasörünün içinde bulunan FTP klasörünün içindeki tüm dosyalarý ftp nize atýnýz.
+
+2 - SQL klasöründeki sql dosyasýný yeni bir veritabaný oluþturup içe aktar yaparak phpmyadmin üzerinden yükleyiniz.
+
+3 - Yeni oluþturduðunuz db bilgilerini ana sitenizin veri tabanýnda bulunan yenisite tablosuna phpmyadmin üzerinden ekleyiniz.
+
+4 - Phpmyadmin üzerinden ayarlar tablosundan ayar_siteurl kýsmýna site linkini kurduðunuz alan adýný http:// dahil ve sonuna / iþareti ile tam olarak yazýp sonuna / eklemeyi unutmayýnýz.
+
+5 - Daha sonra ana siteniz üzerinden /trex yolundan panelinizi açýp üst sað kýsýmdaki siteler sekmesinden düzenleyeceðiniz alt sekmeyi seçtikten sonra panelde görünün
+tüm veriler seçilen siteye aittir.
+
+Kurulum tamamlanmýþtýr.
+
+*****Kurulum Sonrasý ÖNEMLÝ! Ayarlar*****
+
+Admin link (Ana sitenizde): alanadi.com/trex linki ile admine giriþ yapabilirsiniz.
+
+Admin giriþ bilgileri kullanýcý "admin" ve þifre "admin" dir.
+
+Ýyi günlerde kullanýnýz.
+
+Her türlü destek ve iletiþim için;
+
+www.sonyazilim.net sitemizden bizlere ulaþabilir sistem üzerinden bizlere destek bileti oluþturabilirsiniz.
+
